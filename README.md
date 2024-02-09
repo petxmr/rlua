@@ -1,6 +1,6 @@
 # rlua
 
-simple rust source code translation into luau source code.
+simple rust to luau translation tool
 
 # features
 
