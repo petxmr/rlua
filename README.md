@@ -19,6 +19,8 @@ local x = 34;
 local y = x * 23;
 ```
 
+[25/3/2024] This is not impressive. It was only a test for myself to see what I can do in Rust; since then I've improved my Rust skills and hopefully I'll get this project up again with more complex code conversions.
+
 # future
 
 function conversion
